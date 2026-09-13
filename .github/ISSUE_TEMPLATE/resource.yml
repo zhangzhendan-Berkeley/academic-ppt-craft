@@ -1,0 +1,21 @@
+name: 新增资源或制作需求
+description: 建议新的范例、模板或工作方法
+title: "[建议] "
+body:
+  - type: textarea
+    id: use
+    attributes:
+      label: 想解决什么问题
+      description: 说明当前方法哪里不够，以及新资源或需求适合什么教学场景
+    validations:
+      required: true
+  - type: textarea
+    id: resource
+    attributes:
+      label: 资源来源与公开范围
+      description: 若提供资源，写作者、原链接、许可、页码及学习用途；未获再分发许可时仅提交原作者链接
+  - type: textarea
+    id: change
+    attributes:
+      label: 建议如何纳入
+      description: 通用规则、模板配置、学习范例或待讨论想法

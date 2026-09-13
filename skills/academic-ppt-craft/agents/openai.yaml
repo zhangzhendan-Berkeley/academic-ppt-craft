@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术课件制作与备课访谈"
+  short_description: "整理新课材料、追问教学需求，适配原模板并逐页打磨图文、语言与视频"
+  default_prompt: "请使用 $academic-ppt-craft，先盘点已有材料和教学边界，再逐轮确认主线、深度、证据与课件风格。"

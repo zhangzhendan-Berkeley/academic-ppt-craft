@@ -1,0 +1,41 @@
+name: 课件质量问题
+description: 提交教学、语言、图文、模板或媒体问题
+title: "[质量] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: skill版本与制作环境
+      description: 例如1.3.0、Windows、PowerPoint或WPS版本；注明使用的agent
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: 教学背景与问题
+      description: 讲什么、给谁讲、具体哪页或哪一句不合适
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 希望怎样修改
+      description: 给出可执行的期望，可附已匿名化且获准公开的前后例子
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: 预计适用范围
+      options:
+        - 通用教学或制作问题
+        - 特定模板
+        - 个人偏好
+        - 不确定，需讨论
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: 附件范围
+      options:
+        - label: 我提交的示例可公开，不含保密研究、私人数据或账户信息
+          required: true

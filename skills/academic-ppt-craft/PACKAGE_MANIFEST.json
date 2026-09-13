@@ -1,0 +1,151 @@
+{
+  "skill": "academic-ppt-craft",
+  "files": [
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 336,
+      "sha256": "3bef826a1d491b73da2554039776e33d1b6849133cb3e789f7f30ac24f332807"
+    },
+    {
+      "path": "assets/attachment-manifest.json",
+      "bytes": 4410,
+      "sha256": "7f20f01007a7178ab8a8c53fcd70c0b27cfe40aefd9ec1bfb1e53fad1a3fa1aa"
+    },
+    {
+      "path": "assets/course-brief.md",
+      "bytes": 1673,
+      "sha256": "a73e6c64e5dd5acb21e5e374bd99feaf8fa797b001ac0494cbef39588dbbf308"
+    },
+    {
+      "path": "assets/course-sop.pdf",
+      "bytes": 257023,
+      "sha256": "bd097a0806448250a801d3b12fadefb6524b13da6159aee686e5702aa321ac6b"
+    },
+    {
+      "path": "assets/engineering-example.pdf",
+      "bytes": 3486711,
+      "sha256": "9ed7a320bb8a98c10b4d215ab3ef51e1c9dcc3de4d4cfc41c9190bf45dab14fe"
+    },
+    {
+      "path": "assets/ppt-template.pptx",
+      "bytes": 32262855,
+      "sha256": "ea94cac48b3baa96a602493cc58371389ea8e243cdb0b4f0e755f5fce2fe8bc3"
+    },
+    {
+      "path": "assets/template-profile.json",
+      "bytes": 310763,
+      "sha256": "b77acbf46a5dd7f088dc00f268223ecd734a56c243342656d247ec2233812add"
+    },
+    {
+      "path": "assets/visual-combinations.pptx",
+      "bytes": 47312,
+      "sha256": "2a24da18a1e8702f8dfba2b4ee44bda30bada0b67ac9c62c7d82e26f0725e479"
+    },
+    {
+      "path": "references/case-lessons.md",
+      "bytes": 4124,
+      "sha256": "5a2af8f906f4816bdd780f63dd30df1ca1b4fd3a144b793010176df898f6d073"
+    },
+    {
+      "path": "references/community.md",
+      "bytes": 2384,
+      "sha256": "ee0dfeaee154b56d2fc5a227585c21371583d8e1e6d46d0cb58174f4afa94bd2"
+    },
+    {
+      "path": "references/engineering.md",
+      "bytes": 4935,
+      "sha256": "d0c86a9d69451e2570f4b7699191d36c71bbb1de0777369ff79c641104b73740"
+    },
+    {
+      "path": "references/evidence.md",
+      "bytes": 5979,
+      "sha256": "f533e6a5cf82044c879348f96618474430e9197c668369ddfc383e1a0561d58c"
+    },
+    {
+      "path": "references/examples.md",
+      "bytes": 1792,
+      "sha256": "a27d70b73c40085935b69adb3eb941602942fe50be9aa5c4d45d0226d42df083"
+    },
+    {
+      "path": "references/intake.md",
+      "bytes": 6720,
+      "sha256": "0934531e67ab73c17fad3c93ef83bcb6d0c7443098cb2f521beaf3ed0a07fb72"
+    },
+    {
+      "path": "references/latex.md",
+      "bytes": 2330,
+      "sha256": "4bb06fc5de85b2ba1ee68ad9bdb82c12788f0c31cffca01f7dcc06c22f27ef50"
+    },
+    {
+      "path": "references/license.md",
+      "bytes": 1406,
+      "sha256": "7b4f24b3f806c87d3f3dbf3ac1090708cb9ad795f9f3c9b6298635eb42ec7129"
+    },
+    {
+      "path": "references/maintenance.md",
+      "bytes": 3659,
+      "sha256": "944bf1ee7faa3b011ae85e95a53252209ba0685e0d1c3f47a3ca9b2394186982"
+    },
+    {
+      "path": "references/preferences.md",
+      "bytes": 2861,
+      "sha256": "d7dcffa73612f84faee101aea8d9a0d18e3566b725d8e05e97dab09be3693628"
+    },
+    {
+      "path": "references/review.md",
+      "bytes": 5430,
+      "sha256": "ef9acb4add36f5c7aa4f7932ad1f302984e54ca59d21d0ada93a26c9b2284af7"
+    },
+    {
+      "path": "references/slide-reduction.md",
+      "bytes": 2287,
+      "sha256": "0525a46bdd1a58fedd321641f0b65aab355b329d13675c80f5067515c804b1ff"
+    },
+    {
+      "path": "references/start-prompt.md",
+      "bytes": 14314,
+      "sha256": "55c5d85c438c805524f90a0efc8477051e2d3764c895d5468cfcd3cfe121716b"
+    },
+    {
+      "path": "references/teaching.md",
+      "bytes": 5655,
+      "sha256": "3af77a6ae99d26c154f9ffeee074bbdf6e8251fc9409f2976a5dd0cf55906732"
+    },
+    {
+      "path": "references/template.md",
+      "bytes": 8596,
+      "sha256": "ece4b82c85aa9535504b0fe43b859d1b83960672a22f8b5981d6a0a4a24803d2"
+    },
+    {
+      "path": "references/visual-composition.md",
+      "bytes": 7484,
+      "sha256": "1349e0788c7c4fd8dcd5e7a6fdf60e244d758c7851dd85a014aff0c12da168dc"
+    },
+    {
+      "path": "references/writing.md",
+      "bytes": 5777,
+      "sha256": "72b0e3fe01994490b09dc2760874a2fd90ffd48c83aefd768c99029f807d2e9b"
+    },
+    {
+      "path": "scripts/create_visual_examples.py",
+      "bytes": 4351,
+      "sha256": "d0b5a5a349f0a04153a53bf7e9a91b4e781f964c280ea94d7ac63e301217f1cc"
+    },
+    {
+      "path": "scripts/inspect_template.py",
+      "bytes": 3230,
+      "sha256": "9d240ab23f2e7da1ee39871ff0ca1970b91a7d2bf23d1dd07c4cf00d8790f05c"
+    },
+    {
+      "path": "scripts/package_skill.py",
+      "bytes": 3464,
+      "sha256": "d1bdae499cb56f61de49f3ede14212cd960313adb12084ffcc37b9cdac1fd32a"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 6309,
+      "sha256": "1b7415da24e748ccab01eb46811dabd9975c94f5fa83631b95e2e5ac55649809"
+    }
+  ],
+  "note": "Manifest excludes itself; content integrity is not a teaching-quality audit."
+}
