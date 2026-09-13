@@ -6,6 +6,8 @@
 
 [下载完整技能包](https://github.com/zhangzhendan-Berkeley/academic-ppt-craft/releases/latest) · [开始备课](skills/academic-ppt-craft/references/start-prompt.md) · [资源库](docs/resources.md) · [提交问题](https://github.com/zhangzhendan-Berkeley/academic-ppt-craft/issues/new/choose) · [交流想法](https://github.com/zhangzhendan-Berkeley/academic-ppt-craft/discussions)
 
+[12页使用指南：PPT、PDF与完整工程](docs/guide.md)用真实下载录屏、材料分工和反馈示例介绍如何上手。
+
 ## 它能帮助完成什么
 
 |已有材料|接下来怎么做|得到什么|
@@ -20,7 +22,7 @@
 
 ## 快速使用
 
-1. 在Releases下载`academic-ppt-craft_v1.3.0.zip`并完整解压，保留skill中的references、assets和scripts。
+1. 在Releases下载`academic-ppt-craft_v1.3.1.zip`并完整解压，保留skill中的references、assets和scripts。
 2. 让agent读取解压目录里的`academic-ppt-craft/SKILL.md`。无需先安装，也能用文件路径启动。
 3. 提供课程材料，然后发送下面的提示；详细版在[新课启动Prompt](skills/academic-ppt-craft/references/start-prompt.md)。
 

@@ -6,6 +6,7 @@ from pptx.util import Inches,Pt
 from pptx.dml.color import RGBColor
 from pptx.enum.shapes import MSO_SHAPE
 from pptx.enum.text import PP_ALIGN
+from pptx.oxml.xmlchemy import OxmlElement
 
 root=Path(__file__).resolve().parents[1]
 p=Presentation();p.slide_width=Inches(13.333);p.slide_height=Inches(7.5)
@@ -22,6 +23,9 @@ def text(sl,t,x,y,w,h,color=K,size=24,fill=None):
  if fill:s.fill.solid();s.fill.fore_color.rgb=RGBColor.from_string(fill)
  for para in s.text_frame.paragraphs:
   para.font.name='Microsoft YaHei';para.font.size=Pt(size);para.font.color.rgb=RGBColor.from_string(color);para.font.bold=True
+  for run in para.runs:
+   for tag in ['a:ea','a:cs']:
+    el=OxmlElement(tag);el.set('typeface','Microsoft YaHei');run._r.get_or_add_rPr().append(el)
  return s
 def placeholder(sl,x,y,w,h,t='实验画面'):
  box(sl,x,y,w,h,'EDF1F5');text(sl,t,x+.2,y+h/2-.3,w-.4,.6,'6B7789')

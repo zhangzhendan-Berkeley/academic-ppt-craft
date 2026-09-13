@@ -11,7 +11,7 @@
 在仓库根目录运行：
 
 ```text
-python skills/academic-ppt-craft/scripts/package_skill.py skills/academic-ppt-craft --output dist/academic-ppt-craft_v1.3.0.zip
+python skills/academic-ppt-craft/scripts/package_skill.py skills/academic-ppt-craft --output dist/academic-ppt-craft_v1.3.1.zip
 ```
 
 脚本不依赖第三方库，检查已登记附件、相对链接和SHA256，并生成PACKAGE_MANIFEST.json。替换附件时先检查新文件与授权，再更新附件登记，不能为了过检查盲目更新哈希。

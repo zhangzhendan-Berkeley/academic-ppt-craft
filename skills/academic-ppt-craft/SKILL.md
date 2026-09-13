@@ -2,7 +2,7 @@
 name: academic-ppt-craft
 description: 规划、制作和精修学术教学PPT；先盘点材料并逐轮追问受众、课时、教学边界与证据，再组织主线、LaTeX备课工程和可编辑课件。含原模板适配、图文与视频审校、教师偏好配置和可追溯资源库。适合新课备课、已有课件修改和制作标准迭代。
 metadata:
-  version: "1.3.0"
+  version: "1.3.1"
   updated: "2026-09-13"
 ---
 

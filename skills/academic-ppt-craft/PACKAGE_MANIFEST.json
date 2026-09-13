@@ -8,8 +8,8 @@
     },
     {
       "path": "assets/attachment-manifest.json",
-      "bytes": 4410,
-      "sha256": "7f20f01007a7178ab8a8c53fcd70c0b27cfe40aefd9ec1bfb1e53fad1a3fa1aa"
+      "bytes": 4399,
+      "sha256": "ae82c0f9c4f2c3eb179db09c066159ebdea1db860c44f9ebef828e83a9efc86a"
     },
     {
       "path": "assets/course-brief.md",
@@ -38,8 +38,8 @@
     },
     {
       "path": "assets/visual-combinations.pptx",
-      "bytes": 47312,
-      "sha256": "2a24da18a1e8702f8dfba2b4ee44bda30bada0b67ac9c62c7d82e26f0725e479"
+      "bytes": 47397,
+      "sha256": "f5a44cc726d0423b0bc7dad0d9b07e962be465836f690ef5fbe1de44d77821cc"
     },
     {
       "path": "references/case-lessons.md",
@@ -53,8 +53,8 @@
     },
     {
       "path": "references/engineering.md",
-      "bytes": 4935,
-      "sha256": "d0c86a9d69451e2570f4b7699191d36c71bbb1de0777369ff79c641104b73740"
+      "bytes": 5784,
+      "sha256": "e770b4c28eeb0f79ed976ef16796ea52a0c2bf2b333dec03ea913f9351eef67e"
     },
     {
       "path": "references/evidence.md",
@@ -128,8 +128,8 @@
     },
     {
       "path": "scripts/create_visual_examples.py",
-      "bytes": 4351,
-      "sha256": "d0b5a5a349f0a04153a53bf7e9a91b4e781f964c280ea94d7ac63e301217f1cc"
+      "bytes": 4612,
+      "sha256": "5c4d45e9b9550109e83021af03b3a027958dcf5ea95c25f4d994520ae5cb6179"
     },
     {
       "path": "scripts/inspect_template.py",
@@ -144,7 +144,7 @@
     {
       "path": "SKILL.md",
       "bytes": 6309,
-      "sha256": "1b7415da24e748ccab01eb46811dabd9975c94f5fa83631b95e2e5ac55649809"
+      "sha256": "967b4dce7dae3a05f9c2acbddf28c5ac86cb062cd43fa2c59307fd59ae60ce9e"
     }
   ],
   "note": "Manifest excludes itself; content integrity is not a teaching-quality audit."
