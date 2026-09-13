@@ -2,7 +2,7 @@
 name: academic-ppt-craft
 description: 规划、制作和精修学术教学PPT；先盘点材料并逐轮追问受众、课时、教学边界与证据，再组织主线、LaTeX备课工程和可编辑课件。含原模板适配、图文与视频审校、教师偏好配置和可追溯资源库。适合新课备课、已有课件修改和制作标准迭代。
 metadata:
-  version: "1.3.1"
+  version: "1.4.0"
   updated: "2026-09-13"
 ---
 
@@ -61,3 +61,5 @@ metadata:
 公开库不收录保密研究原件、教师备份或私人项目成果。资源公开使用范围见[附件登记](assets/attachment-manifest.json)；资料内第三方内容不因仓库开放而自动改成开源许可。
 
 原创文档与脚本的许可见[LICENSE](references/license.md)；教学原件按资源登记保留原权利。
+
+涉及工程转PPT、制作指令、逐轮反馈或换会话交接时，读[工程转PPT与高效协作](references/agent-collaboration.md)，明确输入、内容映射、原生对象与实际验收。

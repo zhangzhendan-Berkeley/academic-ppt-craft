@@ -42,6 +42,11 @@
       "sha256": "f5a44cc726d0423b0bc7dad0d9b07e962be465836f690ef5fbe1de44d77821cc"
     },
     {
+      "path": "references/agent-collaboration.md",
+      "bytes": 6553,
+      "sha256": "20eb5a04a2e58525827cd2934633e4a786cd5e5f0ba54afc48b1056e6d2ccdf1"
+    },
+    {
       "path": "references/case-lessons.md",
       "bytes": 4124,
       "sha256": "5a2af8f906f4816bdd780f63dd30df1ca1b4fd3a144b793010176df898f6d073"
@@ -143,8 +148,8 @@
     },
     {
       "path": "SKILL.md",
-      "bytes": 6309,
-      "sha256": "967b4dce7dae3a05f9c2acbddf28c5ac86cb062cd43fa2c59307fd59ae60ce9e"
+      "bytes": 6515,
+      "sha256": "6693314fa2bf73223bc5b078b90ee03f0ea9bee60a9b4e60243781e40c893fdd"
     }
   ],
   "note": "Manifest excludes itself; content integrity is not a teaching-quality audit."

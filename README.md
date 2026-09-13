@@ -6,7 +6,7 @@
 
 [下载完整技能包](https://github.com/zhangzhendan-Berkeley/academic-ppt-craft/releases/latest) · [开始备课](skills/academic-ppt-craft/references/start-prompt.md) · [资源库](docs/resources.md) · [提交问题](https://github.com/zhangzhendan-Berkeley/academic-ppt-craft/issues/new/choose) · [交流想法](https://github.com/zhangzhendan-Berkeley/academic-ppt-craft/discussions)
 
-[12页使用指南：PPT、PDF与完整工程](docs/guide.md)用真实下载录屏、材料分工和反馈示例介绍如何上手。
+[24页详解指南：PPT、PDF与完整工程](docs/guide.md)保留真实下载录屏，补充工程转PPT、制作指令、修改与交接的具体示例。
 
 ## 它能帮助完成什么
 
@@ -22,7 +22,7 @@
 
 ## 快速使用
 
-1. 在Releases下载`academic-ppt-craft_v1.3.1.zip`并完整解压，保留skill中的references、assets和scripts。
+1. 在Releases下载`academic-ppt-craft_v1.4.0.zip`并完整解压，保留skill中的references、assets和scripts。
 2. 让agent读取解压目录里的`academic-ppt-craft/SKILL.md`。无需先安装，也能用文件路径启动。
 3. 提供课程材料，然后发送下面的提示；详细版在[新课启动Prompt](skills/academic-ppt-craft/references/start-prompt.md)。
 
@@ -93,3 +93,5 @@ docs/                       资源库与协作说明
 脚本辅助检查需Python；模板检查另需`python-pptx`、`lxml`。使用skill文档不要求运行脚本。PowerPoint／WPS、XeLaTeX、视频转码工具按所选任务准备，详见工程规范。
 
 原创方法文档与脚本采用[MIT](LICENSE)；随附教学原件和第三方资料遵循[资源声明](docs/resources.md)各自的使用范围。欢迎补充真正可公开的好例子，让每轮审稿积累成下一门课能用的方法。
+
+工程转PPT和逐轮沟通可直接参考[完整指令示例](skills/academic-ppt-craft/references/agent-collaboration.md)。
